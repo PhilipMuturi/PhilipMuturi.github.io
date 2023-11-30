@@ -1,2 +1,2 @@
-# ranktech
-Ranktech repository
+# website
+My website project
